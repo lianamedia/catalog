@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 49.53 50.27">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #6d6e71;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="-.39" y1="31.91" x2="19.08" y2="-14.88" gradientTransform="translate(33.15 15.61) rotate(90) scale(1.02 .99)" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#a5b4bd"/>
+      <stop offset=".74" stop-color="#eff2f3"/>
+      <stop offset=".85" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="14.47" y1="47.2" x2="35.01" y2="3.14" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".29" stop-color="#f6f6f6"/>
+      <stop offset=".76" stop-color="#dedfdf"/>
+      <stop offset="1" stop-color="#d0d1d1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <ellipse class="cls-3" cx="24.77" cy="25.14" rx="25.14" ry="24.77" transform="translate(-1.1 49.14) rotate(-88.28)"/>
+      <circle class="cls-1" cx="24.74" cy="25.17" r="24.3"/>
+    </g>
+    <path class="cls-2" d="M30.5,16.74h0c-1.61-1.61-3.72-2.42-5.83-2.42s-4.22.81-5.83,2.42c-2.94,2.94-3.23,7.62-.67,10.91l5.83,7.47c.34.44,1.01.44,1.36,0l5.83-7.47c2.56-3.28,2.27-7.96-.67-10.91ZM24.67,25.84c-1.81,0-3.29-1.47-3.29-3.29s1.47-3.29,3.29-3.29,3.29,1.47,3.29,3.29-1.47,3.29-3.29,3.29Z"/>
+  </g>
+</svg>

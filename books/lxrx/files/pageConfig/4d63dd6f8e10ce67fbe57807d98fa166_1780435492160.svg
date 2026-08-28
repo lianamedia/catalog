@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 62.08 62.08">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: url(#radial-gradient);
+      }
+
+      .cls-3 {
+        fill: #6d6e71;
+      }
+
+      .cls-4 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-5 {
+        fill: #414042;
+      }
+    </style>
+    <radialGradient id="radial-gradient" cx="31.04" cy="31.04" fx="31.04" fy="31.04" r="31.04" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#e69724"/>
+      <stop offset=".3" stop-color="#e68e24"/>
+      <stop offset=".79" stop-color="#e67624"/>
+      <stop offset="1" stop-color="#e66a25"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient" x1="12.91" y1="42.12" x2="32.38" y2="-4.68" gradientTransform="translate(49.49 7.97) rotate(90) scale(1.02 .99)" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#a5b4bd"/>
+      <stop offset=".74" stop-color="#eff2f3"/>
+      <stop offset=".85" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="20.74" y1="53.11" x2="41.29" y2="9.05" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".29" stop-color="#f6f6f6"/>
+      <stop offset=".76" stop-color="#dedfdf"/>
+      <stop offset="1" stop-color="#d0d1d1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <circle class="cls-2" cx="31.04" cy="31.04" r="31.04"/>
+    <g>
+      <g>
+        <ellipse class="cls-4" cx="31.04" cy="31.04" rx="25.14" ry="24.77" transform="translate(-.92 61.14) rotate(-88.28)"/>
+        <circle class="cls-1" cx="31.02" cy="31.08" r="24.3"/>
+      </g>
+      <g>
+        <path class="cls-3" d="M48.13,29.9l-22.85-13.19c-1.01-.58-2.27.15-2.27,1.31v26.39c0,1.17,1.26,1.9,2.27,1.31l22.85-13.19c1.01-.58,1.01-2.04,0-2.63Z"/>
+        <path class="cls-5" d="M48.28,29.97l-17.39-10.04c.18.14.36.29.55.42,6.11,4.07,11.27,7.3,14.47,9.85,1.02.82.24,1.92.09,2.06-1.12,1.05-14.76,9.78-14.76,9.78l-.67.56,17.71-10.22c.93-.53.93-1.87,0-2.41Z"/>
+      </g>
+    </g>
+  </g>
+</svg>

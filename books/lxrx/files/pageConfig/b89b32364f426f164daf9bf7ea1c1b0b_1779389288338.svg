@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 26.3 26.69">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: url(#linear-gradient-2);
+      }
+
+      .cls-2 {
+        fill: #6d6e71;
+      }
+
+      .cls-3 {
+        fill: url(#linear-gradient);
+      }
+    </style>
+    <linearGradient id="linear-gradient" x1="9.75" y1="29.1" x2="20.09" y2="4.25" gradientTransform="translate(29.58 -1.86) rotate(90) scale(1.02 .99)" gradientUnits="userSpaceOnUse">
+      <stop offset=".17" stop-color="#a5b4bd"/>
+      <stop offset=".74" stop-color="#eff2f3"/>
+      <stop offset=".85" stop-color="#fff"/>
+    </linearGradient>
+    <linearGradient id="linear-gradient-2" x1="7.68" y1="25.06" x2="18.59" y2="1.67" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset=".29" stop-color="#f6f6f6"/>
+      <stop offset=".76" stop-color="#dedfdf"/>
+      <stop offset="1" stop-color="#d0d1d1"/>
+    </linearGradient>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <ellipse class="cls-3" cx="13.15" cy="13.35" rx="13.35" ry="13.15" transform="translate(-.59 26.09) rotate(-88.28)"/>
+      <circle class="cls-1" cx="13.14" cy="13.37" r="12.9"/>
+    </g>
+    <g>
+      <path class="cls-2" d="M15.27,19.14h-4.77c-2.08,0-3.77-1.69-3.77-3.77v-4.77c0-2.08,1.69-3.77,3.77-3.77h4.77c2.08,0,3.77,1.69,3.77,3.77v4.77c0,2.08-1.69,3.77-3.77,3.77ZM10.5,7.77c-1.57,0-2.84,1.28-2.84,2.84v4.77c0,1.57,1.28,2.84,2.84,2.84h4.77c1.57,0,2.84-1.28,2.84-2.84v-4.77c0-1.57-1.28-2.84-2.84-2.84h-4.77Z"/>
+      <path class="cls-2" d="M12.89,16.1c-1.72,0-3.11-1.4-3.11-3.11s1.4-3.11,3.11-3.11,3.11,1.4,3.11,3.11-1.4,3.11-3.11,3.11ZM12.89,10.83c-1.2,0-2.17.97-2.17,2.17s.97,2.17,2.17,2.17,2.17-.97,2.17-2.17-.97-2.17-2.17-2.17Z"/>
+      <path class="cls-2" d="M17.15,9.54c0,.45-.36.81-.81.81s-.81-.36-.81-.81.36-.81.81-.81.81.36.81.81Z"/>
+    </g>
+  </g>
+</svg>
