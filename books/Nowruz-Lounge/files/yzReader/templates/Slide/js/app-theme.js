@@ -1,1 +1,0 @@
-(()=>{const t=window.htmlConfig;if(t&&t.themeCssVarList){const e=t.themeCssVarList,n=document.createElement("style");let s=":root {";for(const t in e)s+=`${t}: ${e[t]};`;s+="}",n.type="text/css",n.textContent=s,document.head.appendChild(n)}})();
